@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Guest Lecturer, EECS 508: Control and Modeling of Power Electronics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Guest Lecture"
+permalink: /teaching/2025-eecs508-guest-lecture
+venue: "University of Michigan"
+date: 2026-03-09
+location: "Ann Arbor, MI"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Guest lecture for EECS 508: Control and Modeling of Power Electronics at the University of Michigan.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Lecture topic: Nonlinear control techniques I: Lyapunov-based control.
