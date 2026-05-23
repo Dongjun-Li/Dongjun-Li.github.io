@@ -1,36 +1,43 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Selected Journal Articles</h2>
 
-{% include base_path %}
+<ol>
+  <li><strong>D. Li</strong>, H. Dong, and Z. Song, “Eco-driving for connected and automated vehicles: Managing uncertainty in mixed traffic with a physics-enhanced data-driven method,” <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2025.</li>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <li><strong>D. Li</strong>, Q. Hu, W. Jiang, H. Dong, and Z. Song, “Integrated power and thermal management for enhancing energy efficiency and battery life in connected and automated electric vehicles,” <em>Applied Energy</em>, vol. 396, p. 126213, 2025.</li>
 
+  <li><strong>D. Li</strong>, K. Zhang, H. Dong, Q. Wang, Z. Li, and Z. Song, “Physics-augmented data-enabled predictive control for eco-driving of mixed traffic considering diverse human behaviors,” <em>IEEE Transactions on Control Systems Technology</em>, vol. 32, no. 4, pp. 1479–1486, 2024.</li>
+
+  <li><strong>D. Li</strong>, C. Zhang, R. Fan, L. Xu, Y. Wang, W. Guo, J. Chen, and M. Ni, “An innovative thermal management method for cooling loop of electric driving system for durable and high efficiency electric vehicle,” <em>Applied Thermal Engineering</em>, vol. 195, p. 117176, 2021.</li>
+
+  <li>Y. Wu, Z. Huang, <strong>D. Li</strong>, H. Li, J. Peng, D. Stroe, and Z. Song, “Optimal battery thermal management for electric vehicles with battery degradation minimization,” <em>Applied Energy</em>, vol. 353, p. 122090, 2024.</li>
+
+  <li>Y. Wu, Z. Huang, <strong>D. Li</strong>, H. Li, J. Peng, J. M. Guerrero, and Z. Song, “Integrated battery thermal and energy management for electric vehicles with hybrid energy storage system: A hierarchical approach,” <em>Energy Conversion and Management</em>, vol. 317, p. 118853, 2024.</li>
+
+  <li>H. Dong, Q. Hu, <strong>D. Li</strong>, Z. Li, and Z. Song, “Predictive battery thermal and energy management for connected and automated electric vehicles,” <em>IEEE Transactions on Intelligent Transportation Systems</em>, vol. 26, no. 2, pp. 2144–2156, 2025.</li>
+
+  <li>Y. Liang, H. Dong, <strong>D. Li</strong>, and Z. Song, “Adaptive eco-cruising control for connected electric vehicles considering a dynamic preceding vehicle,” <em>eTransportation</em>, vol. 19, p. 100299, 2024.</li>
+
+  <li>J. Leng, C. Sun, H. Dong, <strong>D. Li</strong>, C. Zhang, and P. C. Chen, “Adaptive eco-driving with guided speed planning and lane changing through signalized intersections,” <em>IEEE Transactions on Transportation Electrification</em>, 2025.</li>
+
+  <li>K. Lu, <strong>D. Li</strong>, Q. Wang, K. Yang, L. Zhao, and Z. Song, “Safe reinforcement learning-based eco-driving control for mixed traffic flows with disturbances,” <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2025.</li>
+</ol>
+
+<h2>Conference Papers</h2>
+
+<ol>
+  <li><strong>D. Li</strong>, H. Dong, and Z. Song, “Physics-informed data-enabled predictive control for regulating mixed traffic flows,” in <em>2024 IEEE Transportation Electrification Conference and Expo (ITEC)</em>, 2024, pp. 1–6.</li>
+
+  <li><strong>D. Li</strong>, Q. Hu, H. Dong, and Z. Song, “Integrated power and thermal management for reducing battery degradation in electrified connected and automated vehicles,” in <em>2025 American Control Conference (ACC)</em>, 2025, pp. 4731–4736.</li>
+
+  <li><strong>D. Li</strong>, H. Dong, L. Xu, and Z. Song, “Multi-objective energy management strategy with trade-off analysis for marine electric propulsion systems,” in <em>2025 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, 2025.</li>
+
+  <li><strong>D. Li</strong>, H. Dong, L. Xu, and Z. Song, “Direct data-driven predictive control: A computationally efficient approach for eco-driving in mixed traffic flows,” in <em>2026 American Control Conference (ACC)</em>, 2026, accepted.</li>
+</ol>
 
 
