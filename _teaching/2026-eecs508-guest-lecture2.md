@@ -4,7 +4,7 @@ collection: teaching
 type: "Guest Lecture"
 permalink: /teaching/2025-eecs508-guest-lecture
 venue: "University of Michigan"
-date: 2026-03-09
+date: 2026-03-11
 location: "Ann Arbor, MI"
 ---
 
