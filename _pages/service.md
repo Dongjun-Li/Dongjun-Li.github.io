@@ -15,7 +15,8 @@ I have served as a reviewer for more than 120 manuscripts for international jour
 - *IEEE Transactions on Intelligent Transportation Systems*
 - *IEEE Transactions on Cybernetics*
 - *IEEE Transactions on Automation Science and Engineering*
-- *American Control Conference*
+- *IEEE American Control Conference*
+- *IEEE Conference on Decision and Control*
 - *IEEE Intelligent Vehicles Symposium*
 
 ### Energy, Thermal Management, and Battery Systems
@@ -32,7 +33,3 @@ I have served as a reviewer for more than 120 manuscripts for international jour
 - *Automotive Innovation*
 - *SAE International Journal of Electrified Vehicles*
 - *Green Energy and Intelligent Transportation*
-
-### Other Journals
-
-- *Scientific Reports*
