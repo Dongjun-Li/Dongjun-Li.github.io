@@ -57,6 +57,19 @@ ME2115: Mechanics of Machines, 2023 -- 2024
 - Finalist, 2019 TECO Green Tech International Contest, 2019
 - Excellent Graduate of Chongqing University, 2019
 
+## Selected Publications
+
+A complete publication list is available on my [Publications](/publications/) page.
+
+1. **D. Li**, H. Dong, and Z. Song, "Eco-driving for connected and automated vehicles: Managing uncertainty in mixed traffic with a physics-enhanced data-driven method," *IEEE Transactions on Intelligent Transportation Systems*, 2025.
+
+2. **D. Li**, Q. Hu, W. Jiang, H. Dong, and Z. Song, "Integrated power and thermal management for enhancing energy efficiency and battery life in connected and automated electric vehicles," *Applied Energy*, vol. 396, p. 126213, 2025.
+
+3. **D. Li**, K. Zhang, H. Dong, Q. Wang, Z. Li, and Z. Song, "Physics-augmented data-enabled predictive control for eco-driving of mixed traffic considering diverse human behaviors," *IEEE Transactions on Control Systems Technology*, vol. 32, no. 4, pp. 1479--1486, 2024.
+
+4. **D. Li**, C. Zhang, R. Fan, L. Xu, Y. Wang, W. Guo, J. Chen, and M. Ni, "An innovative thermal management method for cooling loop of electric driving system for durable and high efficiency electric vehicle," *Applied Thermal Engineering*, vol. 195, p. 117176, 2021.
+
+
 ## Academic Service
 
 I have served as a reviewer for more than 120 manuscripts for international journals and conferences in control, transportation electrification, intelligent vehicles, energy systems, and thermal management.
@@ -77,15 +90,3 @@ Selected venues include:
 - *SAE International Journal of Electrified Vehicles*
 - American Control Conference
 - IEEE Intelligent Vehicles Symposium
-
-## Selected Publications
-
-A complete publication list is available on my [Publications](/publications/) page.
-
-1. **D. Li**, H. Dong, and Z. Song, "Eco-driving for connected and automated vehicles: Managing uncertainty in mixed traffic with a physics-enhanced data-driven method," *IEEE Transactions on Intelligent Transportation Systems*, 2025.
-
-2. **D. Li**, Q. Hu, W. Jiang, H. Dong, and Z. Song, "Integrated power and thermal management for enhancing energy efficiency and battery life in connected and automated electric vehicles," *Applied Energy*, vol. 396, p. 126213, 2025.
-
-3. **D. Li**, K. Zhang, H. Dong, Q. Wang, Z. Li, and Z. Song, "Physics-augmented data-enabled predictive control for eco-driving of mixed traffic considering diverse human behaviors," *IEEE Transactions on Control Systems Technology*, vol. 32, no. 4, pp. 1479--1486, 2024.
-
-4. **D. Li**, C. Zhang, R. Fan, L. Xu, Y. Wang, W. Guo, J. Chen, and M. Ni, "An innovative thermal management method for cooling loop of electric driving system for durable and high efficiency electric vehicle," *Applied Thermal Engineering*, vol. 195, p. 117176, 2021.
