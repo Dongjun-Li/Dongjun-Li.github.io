@@ -18,3 +18,7 @@ Before joining the University of Michigan, I received my Ph.D. in Mechanical Eng
 - Battery degradation-aware energy and thermal management
 - Eco-driving and control of connected and automated vehicles
 - Electrified transportation and energy systems
+
+## Recent News
+
+- **May 2026:** Presented our paper, "Direct Data-driven Predictive Control: A Computationally Efficient Alternative to DeePC for Eco-driving in Mixed Traffic Flows," at the American Control Conference.
