@@ -11,10 +11,11 @@ I have served as a reviewer for more than 120 manuscripts for international jour
 ### IEEE Journals and Conferences
 
 - *IEEE Transactions on Transportation Electrification*
-- *IEEE Transactions on Intelligent Vehicles*
 - *IEEE Transactions on Intelligent Transportation Systems*
 - *IEEE Transactions on Cybernetics*
 - *IEEE Transactions on Automation Science and Engineering*
+- *IEEE Transactions on Industrial Electronics*
+- *IEEE Transactions on Intelligent Vehicles*
 - *IEEE American Control Conference*
 - *IEEE Conference on Decision and Control*
 - *IEEE Intelligent Vehicles Symposium*
