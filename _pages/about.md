@@ -19,6 +19,12 @@ Before joining the University of Michigan, I received my Ph.D. in Mechanical Eng
 - Eco-driving and control of connected and automated vehicles
 - Electrified transportation and energy systems
 
+
 ## Recent News
 
-- **May 2026:** Presented our paper, "Direct Data-driven Predictive Control: A Computationally Efficient Alternative to DeePC for Eco-driving in Mixed Traffic Flows," at the American Control Conference.
+- **June 2026:** Presented our paper, “Lane Change Trajectory Planning for Personalized Driving Comfort and Mobility Efficiency,” at the IEEE Intelligent Vehicles Symposium (IV) in Detroit.
+
+- **May 2026:** Presented our paper, “Direct Data-driven Predictive Control: A Computationally Efficient Alternative to DeePC for Eco-driving in Mixed Traffic Flows,” at the American Control Conference.
+
+- **October 2025:** Led the Energy Storage Lab team to win the **1st Place Award** in the IEEE VTS Motor Vehicles Challenge 2025 on “Energy Management and Control of a Marine Electric Propulsion System.” Our award-winning solution was presented at the IEEE VPPC 2025 Motor Vehicles Challenge special session. [[News]](https://ece.engin.umich.edu/stories/prof-ziyou-song-coaches-team-to-motor-vehicle-challenge-win)
+
