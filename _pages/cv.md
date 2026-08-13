@@ -51,7 +51,7 @@ ME2115: Mechanics of Machines, 2023 -- 2024
 - Eco-driving and mixed traffic control for connected and automated vehicles
 
 ## Selected Awards
-
+- **Chinese Government Award for Outstanding Self-Financed Students Abroad (Category A)**, China Scholarship Council (CSC), 2026.  
 - First Prize, Motor Vehicle Challenge at the 2025 IEEE VPPC, 2025
 - Outstanding Graduate Student of Chongqing, 2021
 - Finalist, 2019 TECO Green Tech International Contest, 2019
