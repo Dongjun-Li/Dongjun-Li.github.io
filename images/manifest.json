@@ -1,16 +1,19 @@
----
-layout: none
-permalink: /images/manifest.json
----
 {
-  "name": {{ site.title | jsonify }},
-  "short_name": {{ site.name | jsonify }},
-  "description": {{ site.description | jsonify }},
-  "start_url": "{{ site.baseurl | default: '/' }}",
-  "lang": {{ site.locale | default: "en" | jsonify }},
+  "name": "Dongjun Li",
+  "short_name": "Dongjun Li",
+  "description": "Academic homepage of Dongjun Li",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#00274C",
+  "theme_color": "#00274C",
   "icons": [
     {
-      "src": "/images/U-M_Logo.png",
+      "src": "/images/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
