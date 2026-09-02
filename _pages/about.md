@@ -22,7 +22,7 @@ Before joining the University of Michigan, I received my Ph.D. in Mechanical Eng
 
 
 ## Recent News
-- August 2026: Received the **Chinese Government Award for Outstanding Self-Financed Students Abroad (Category A)** from the China Scholarship Council (CSC), awarded to approximately 600 Category-A recipients worldwide annually.
+- August 2026: Received the **2025-2026 Award for Outstanding Study Elite** from the China Scholarship Council (CSC), awarded to 650 Category-A recipients worldwide annually.
   
 - **June 2026:** Presented our paper, “Lane Change Trajectory Planning for Personalized Driving Comfort and Mobility Efficiency,” at the IEEE Intelligent Vehicles Symposium (IV) in Detroit.
 
